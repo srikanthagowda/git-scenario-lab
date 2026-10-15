@@ -1,6 +1,6 @@
 public class Employee {
     int id;
-    String name;
+    String name= "dev";
     double salary;
     String department;
 }
